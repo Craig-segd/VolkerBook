@@ -1,0 +1,249 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    font-size: 15px;
+    background-color: #333;
+}
+
+#your_employees {
+    background-color: #fff;
+}
+
+p, h2, h4, dt, h3 {
+    color: #fff;
+}
+
+.col-md-2 {
+    color: #fff;
+}
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.nav > li > a:hover, .nav > li > a:focus {
+    background-color: #0198f1;
+}
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}
+
+.nav-pills {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 17px;
+}
+
+.navbar-inverse {
+    background-color: #444444;
+
+}
+
+    .navbar-inverse .navbar-nav > li > a {
+        color: #ffffff;
+    }
+
+    .navbar-inverse .navbar-brand {
+        color: #ffffff;
+        font-size: 20px;
+    }
+
+    .navbar-inverse .navbar-toggle .nav-pills > li.active > a,
+    .nav-pills > li.active > a:hover,
+    .nav-pills > li.active > a:focus {
+        color: #ffffff;
+        background-color: #0198F1;
+
+    }
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+    background-color: #0198f1;
+
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: #fff;
+}
+
+.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+    background-color: #0198f1;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #ffffff;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+    color: #ffffff;
+    background-color: #0198F1;
+    border-color: #333333;
+}
+
+.navbar-inverse .navbar-nav > .dropdown > a .caret {
+    border-top-color: #fff;
+    border-bottom-color: #fff;
+}
+
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
+    background-color: #444444;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.btn-primary {
+    color: #ffffff;
+    background-color: #0198F1;
+    border-color: #0198F1;
+}
+
+a:hover, a:focus {
+    color: #fff;
+}
+
+.form-control:focus {
+    border-color: #404242;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #555;
+}
+
+@media (max-width: 767px) {
+    .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
+        color: #fff;
+    }
+    .indeximg {
+        max-width: 100%;
+        height: auto;
+        width: auto\9; /* ie8 */
+        padding-left: 15px;
+    }
+
+    .logo {
+        margin-left: 15px;
+    }
+}
+
+#wholeBody {
+    /*border: 1px solid green;*/
+    display: flex;
+}
+
+#left {
+    -webkit-flex: 0 0 30%;
+    -ms-flex: 0 0 30%;
+    -o-flex: 0 0 30%;
+    flex: 0 0 30%;
+}
+
+#right {
+    /*border: 1px solid blue;*/
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    -o-flex: 1;
+    flex: 1;
+    text-align: center;
+}
+
+.dropdown-menu {
+    background-color: #444444;
+}
+
+.dropdown-menu > li > a {
+    color: #fff;   
+}
+
+.jumbotron {
+    margin-top:10px;
+    background-color: #555;
+}
+
+.jumboLogin {
+    background-color: #555;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 20px;
+    padding-top: 1px;
+    border-radius: 6px;
+    margin-top: 10px;
+}
+
+.pillbg {
+    text-align: center;
+    height: 100px;
+    margin-top: -30px;
+    padding-top: 17px;
+}
+    .pillbg ul.nav {
+        display: inline-block;
+    }
+        .pillbg ul.nav li {
+            display: inline;
+            float: left;
+        }
+
+.dataTables_filter {
+    text-align: center !important;
+    background-color: #0198f1;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+    border-radius: 6px;
+}
+
+.radio label, .checkbox label {
+    color: #fff;
+}
+
+a.editColor {
+    color: #333 !important;
+}
+
+dd {
+    color: #fff;
+}
+
+.pagination > li:last-child > a, .pagination > li:last-child > span {
+    color: #333333;
+}
+
+.pagination > li:first-child > a, .pagination > li:first-child > span {
+    color: #333333;
+}
+
+.dataTables_info {
+    color: #fff;
+}
+
+.pagination > li > a, .pagination > li > span {
+    color: #333;
+}
+
+.logo {
+    width: 59.1px;
+    height: 41.2px;
+
+}

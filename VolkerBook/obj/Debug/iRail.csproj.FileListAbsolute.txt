@@ -1,0 +1,407 @@
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\ApplicationInsights.config
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\csc.exe
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\csc.exe.config
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\csc.rsp
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\csi.exe
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\csi.rsp
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\System.AppContext.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\vbc.exe
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\vbc.exe.config
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\vbc.rsp
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\VBCSCompiler.exe
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\iRail.dll.config
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\iRail.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\iRail.pdb
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Antlr3.Runtime.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\EntityFramework.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\EntityFramework.SqlServer.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.AI.Web.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.Owin.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.Owin.Security.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Newtonsoft.Json.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Owin.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\System.Web.Helpers.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\System.Web.Mvc.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\System.Web.Optimization.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\System.Web.Razor.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\System.Web.WebPages.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\System.Web.WebPages.Razor.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\WebGrease.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\System.Web.Helpers.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\System.Web.Mvc.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\System.Web.Optimization.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\System.Web.Razor.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\System.Web.WebPages.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\System.Web.WebPages.Razor.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Antlr3.Runtime.pdb
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Newtonsoft.Json.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\EntityFramework.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\EntityFramework.SqlServer.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.Owin.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.Owin.Security.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\bin\Microsoft.AI.Web.xml
+C:\Users\Craig\Desktop\iRail\iRail\iRail\obj\Debug\iRail.Migrations.InitialCreate.resources
+C:\Users\Craig\Desktop\iRail\iRail\iRail\obj\Debug\iRail.Migrations.ModelSets.resources
+C:\Users\Craig\Desktop\iRail\iRail\iRail\obj\Debug\iRail.Migrations.AddBaseModelData.resources
+C:\Users\Craig\Desktop\iRail\iRail\iRail\obj\Debug\iRail.Migrations.ContactNumberValidation.resources
+C:\Users\Craig\Desktop\iRail\iRail\iRail\obj\Debug\iRail.Migrations.AddedContractId.resources
+C:\Users\Craig\Desktop\iRail\iRail\iRail\obj\Debug\iRail.Migrations.AddedTimes.resources
+C:\Users\Craig\Desktop\iRail\iRail\iRail\obj\Debug\iRail.csproj.GenerateResource.Cache
+C:\Users\Craig\Desktop\iRail\iRail\iRail\obj\Debug\iRail.dll
+C:\Users\Craig\Desktop\iRail\iRail\iRail\obj\Debug\iRail.pdb
+C:\Users\Craig\Desktop\iRail\iRail\iRail\obj\Debug\iRail.csprojResolveAssemblyReference.cache
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\ApplicationInsights.config
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\csc.exe
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\csc.exe.config
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\csc.rsp
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\csi.exe
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\csi.rsp
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\System.AppContext.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\vbc.exe
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\vbc.exe.config
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\vbc.rsp
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\VBCSCompiler.exe
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\iRail.dll.config
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\iRail.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\iRail.pdb
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Antlr3.Runtime.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\EntityFramework.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\EntityFramework.SqlServer.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.AI.Web.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.Owin.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.Owin.Security.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Newtonsoft.Json.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Owin.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\System.Web.Helpers.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\System.Web.Mvc.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\System.Web.Optimization.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\System.Web.Razor.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\System.Web.WebPages.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\System.Web.WebPages.Razor.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\WebGrease.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\System.Web.Helpers.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\System.Web.Mvc.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\System.Web.Optimization.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\System.Web.Razor.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\System.Web.WebPages.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\System.Web.WebPages.Razor.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Antlr3.Runtime.pdb
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Newtonsoft.Json.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\EntityFramework.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\EntityFramework.SqlServer.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.Owin.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.Owin.Security.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\bin\Microsoft.AI.Web.xml
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\obj\Debug\iRail.Migrations.InitialCreate.resources
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\obj\Debug\iRail.Migrations.ModelSets.resources
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\obj\Debug\iRail.Migrations.AddBaseModelData.resources
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\obj\Debug\iRail.Migrations.ContactNumberValidation.resources
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\obj\Debug\iRail.Migrations.AddedContractId.resources
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\obj\Debug\iRail.Migrations.AddedTimes.resources
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\obj\Debug\iRail.csproj.GenerateResource.Cache
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\obj\Debug\iRail.csproj.CoreCompileInputs.cache
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\obj\Debug\iRail.dll
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\obj\Debug\iRail.pdb
+C:\Users\Craig\Desktop\iRail\iRail - Copy\iRail\obj\Debug\iRail.csprojResolveAssemblyReference.cache
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\VBCSCompiler.exe
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\ApplicationInsights.config
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\csc.exe
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\csc.exe.config
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\csc.rsp
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\csi.exe
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\csi.rsp
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\System.AppContext.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\vbc.exe
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\vbc.exe.config
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\vbc.rsp
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\iRail.dll.config
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\iRail.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\iRail.pdb
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Antlr3.Runtime.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\EntityFramework.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\EntityFramework.SqlServer.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.AI.Web.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.Owin.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.Owin.Security.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Newtonsoft.Json.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Owin.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\System.Web.Helpers.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\System.Web.Mvc.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\System.Web.Optimization.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\System.Web.Razor.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\System.Web.WebPages.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\System.Web.WebPages.Razor.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\WebGrease.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\System.Web.Helpers.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\System.Web.Mvc.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\System.Web.Optimization.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\System.Web.Razor.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\System.Web.WebPages.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\System.Web.WebPages.Razor.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Antlr3.Runtime.pdb
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Newtonsoft.Json.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\EntityFramework.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\EntityFramework.SqlServer.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.Owin.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.Owin.Security.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\bin\Microsoft.AI.Web.xml
+C:\Users\Craig\Desktop\iRail-Volker\iRail\obj\Debug\iRail.Migrations.InitialCreate.resources
+C:\Users\Craig\Desktop\iRail-Volker\iRail\obj\Debug\iRail.Migrations.DatabaseInitial.resources
+C:\Users\Craig\Desktop\iRail-Volker\iRail\obj\Debug\iRail.Migrations.AddedAdministratorAcc.resources
+C:\Users\Craig\Desktop\iRail-Volker\iRail\obj\Debug\iRail.csproj.GenerateResource.Cache
+C:\Users\Craig\Desktop\iRail-Volker\iRail\obj\Debug\iRail.csproj.CoreCompileInputs.cache
+C:\Users\Craig\Desktop\iRail-Volker\iRail\obj\Debug\iRail.dll
+C:\Users\Craig\Desktop\iRail-Volker\iRail\obj\Debug\iRail.pdb
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\ApplicationInsights.config
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\csc.exe
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\csc.exe.config
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\csc.rsp
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\csi.exe
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\csi.rsp
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\System.AppContext.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\vbc.exe
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\vbc.exe.config
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\vbc.rsp
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\VBCSCompiler.exe
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\iRail.dll.config
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\iRail.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\iRail.pdb
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Antlr3.Runtime.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\EntityFramework.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\EntityFramework.SqlServer.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.AI.Web.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.Owin.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.Owin.Security.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Newtonsoft.Json.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Owin.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\System.Web.Helpers.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\System.Web.Mvc.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\System.Web.Optimization.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\System.Web.Razor.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\System.Web.WebPages.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\System.Web.WebPages.Razor.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\WebGrease.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\System.Web.Helpers.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\System.Web.Mvc.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\System.Web.Optimization.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\System.Web.Razor.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\System.Web.WebPages.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\System.Web.WebPages.Razor.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Antlr3.Runtime.pdb
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Newtonsoft.Json.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\EntityFramework.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\EntityFramework.SqlServer.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.Owin.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.Owin.Security.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\bin\Microsoft.AI.Web.xml
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\obj\Debug\iRail.Migrations.InitialCreate.resources
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\obj\Debug\iRail.Migrations.DatabaseInitial.resources
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\obj\Debug\iRail.Migrations.AddedAdministratorAcc.resources
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\obj\Debug\iRail.csproj.GenerateResource.Cache
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\obj\Debug\iRail.csproj.CoreCompileInputs.cache
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\obj\Debug\iRail.dll
+C:\Users\Craig\Desktop\iRail-Volker - Copy\iRail\obj\Debug\iRail.pdb

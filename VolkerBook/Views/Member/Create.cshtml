@@ -1,0 +1,86 @@
+﻿@using Microsoft.AspNet.Identity
+@model VolkerBook.Models.Members
+    
+<div class="jumboLogin">
+@{
+    ViewBag.Title = "Create";
+}
+
+@using (Html.BeginForm("Create", "Member"))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="pillbg">
+        <ul class="nav nav-pills">
+            @if (User.Identity.IsAuthenticated)
+            {
+                if (User.Identity.GetUserName() == "guns_bombs@hotmail.co.uk")
+                {
+                    <li role="presentation" class="active"><a href="@Url.Action("Create", "Member")">Add</a></li>
+                    <li role="presentation"><a href="@Url.Action("Edit", "Member")">Edit</a></li>
+            <li role="presentation"><a href="@Url.Action("Search", "Member")">Search</a></li>
+                }
+
+            }
+            
+        </ul>
+    </div>
+
+        <p class="alert alert-info">All fields are <strong>required</strong>.</p>
+
+        <div class="form-group">
+
+            <p style="font-size: 16px">First name</p>
+            @Html.TextBoxFor(m => m.FirstName, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.FirstName, "", new { @class = "text-danger" })
+        </div>
+    <div class="form-group">
+        <p style="font-size: 16px">Last name</p>
+        @Html.TextBoxFor(m => m.LastName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.LastName, "", new { @class = "text-danger" })
+    </div>
+
+    @*<div class="form-group">
+        <p style="font-size: 16px">Role</p>
+        @Html.TextBoxFor(m => m.Role, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Role, "", new { @class = "text-danger" })
+    </div>*@
+
+    <div class="form-group">
+        <p style="font-size: 16px">Role</p>
+        @Html.DropDownListFor(m => m.Role, new List<SelectListItem>
+        {
+            new SelectListItem() {Text = @"COSS", Value="COSS"},
+            new SelectListItem() {Text = @"Cleaner", Value="Cleaner"},
+            new SelectListItem() {Text = @"Crane Controller", Value="Crane Controller"},
+            new SelectListItem() {Text = @"ES", Value="ES"},
+            new SelectListItem() {Text = @"Engineer", Value="Engineer"},
+            new SelectListItem() {Text = @"First Aider", Value="First Aider"},
+            new SelectListItem() {Text = @"Machine Operator", Value="Machine Operator"},
+            new SelectListItem() {Text = @"Manager", Value="Manager"},
+            new SelectListItem() {Text = @"PICOP", Value="PICOP"},
+            new SelectListItem() {Text = @"SAC", Value="SAC"},
+            new SelectListItem() {Text = @"Site Supervisor", Value="Site Supervisor"},
+            new SelectListItem() {Text = @"Surveyor", Value="Surveyor"},
+            new SelectListItem() {Text = @"Trackman", Value="Trackman",}
+        }, new { @class = "form-control"})
+        @Html.ValidationMessageFor(m => m.Role, "", new {@class = "text-danger"})
+    </div>
+
+
+
+    <div class="form-group">
+        <p style="font-size: 16px">Phone Number</p>
+        @Html.TextBoxFor(m => m.PhoneNumber, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.PhoneNumber, "", new { @class = "text-danger" })
+    </div>
+
+        <button type="reset" class="btn btn-primary">Clear</button>
+        <button type="submit" class="btn btn-primary">Save</button>
+}
+    
+</div>
+
+@section scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

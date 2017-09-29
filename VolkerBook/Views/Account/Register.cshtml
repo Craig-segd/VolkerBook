@@ -1,0 +1,109 @@
+﻿@model VolkerBook.Models.RegisterForm
+    
+<div class="jumboLogin">
+    @{
+        ViewBag.Title = "Register an account";
+    }
+
+    <h2>@ViewBag.Title.</h2>
+    
+   
+
+    @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @class = "form-horizontal", role = "form" }))
+    {
+        @Html.AntiForgeryToken()
+        <hr />        
+        
+        <p class="alert alert-info">Registering will automatically add your information to VolkerBook.</p>
+
+        @Html.ValidationSummary("", new { @class = "text-danger" })        
+        
+        // FIRSTNAME
+        <div class="form-group">
+            @Html.Label("First name", new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.Members.FirstName, new { @class = "form-control" })
+            </div>
+        </div>
+
+        // LASTNAME
+        <div class="form-group">
+            @Html.Label("Last name", new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.Members.LastName, new { @class = "form-control" })
+            </div>
+        </div>
+
+        //ROLE
+        <div class="form-group">
+            @Html.Label("Role", new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.DropDownListFor(m => m.Members.Role, new List<SelectListItem>
+                {
+                    new SelectListItem() {Text = @"", Value=""},
+                    new SelectListItem() {Text = @"COSS", Value="COSS"},
+                    new SelectListItem() {Text = @"Cleaner", Value="Cleaner"},
+                    new SelectListItem() {Text = @"Crane Controller", Value="Crane Controller"},
+                    new SelectListItem() {Text = @"ES", Value="ES"},
+                    new SelectListItem() {Text = @"Engineer", Value="Engineer"},
+                    new SelectListItem() {Text = @"First Aider", Value="First Aider"},
+                    new SelectListItem() {Text = @"Machine Operator", Value="Machine Operator"},
+                    new SelectListItem() {Text = @"Manager", Value="Manager"},
+                    new SelectListItem() {Text = @"PICOP", Value="PICOP"},
+                    new SelectListItem() {Text = @"SAC", Value="SAC"},
+                    new SelectListItem() {Text = @"Site Supervisor", Value="Site Supervisor"},
+                    new SelectListItem() {Text = @"Surveyor", Value="Surveyor"},
+                    new SelectListItem() {Text = @"Trackman", Value="Trackman",}
+                }, new { @class = "form-control" })              
+            </div>
+        </div>
+
+        // PHONENUMBER
+        <div class="form-group">
+            @Html.Label("Phone number", new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.Members.PhoneNumber, new { @class = "form-control" })
+            </div>
+        </div>
+
+        // EMAIL
+        <div class="form-group">
+            @Html.LabelFor(m => m.RegisterViewModel.Email, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(m => m.RegisterViewModel.Email, new { @class = "form-control" })
+            </div>
+         </div>
+
+        // PASSWORD
+        <div class="form-group">
+            @Html.LabelFor(m => m.RegisterViewModel.Password, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.PasswordFor(m => m.RegisterViewModel.Password, new { @class = "form-control" })
+            </div>
+        </div>
+
+        // CONFIRMPASSWORD
+        <div class="form-group">
+            @Html.LabelFor(m => m.RegisterViewModel.ConfirmPassword, new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                @Html.PasswordFor(m => m.RegisterViewModel.ConfirmPassword, new { @class = "form-control" })
+            </div>
+        </div>
+
+
+
+
+
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" class="btn btn-primary" value="Register" />
+            </div>
+        </div>
+
+    }
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

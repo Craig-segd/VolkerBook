@@ -1,0 +1,80 @@
+﻿@using Microsoft.AspNet.Identity
+@model IEnumerable<VolkerBook.Models.Members>
+
+<div class="jumboLogin">
+    @{
+        ViewBag.Title = "Search";
+    }
+
+    @if (User.Identity.GetUserName() != "guns_bombs@hotmail.co.uk")
+
+    {
+        <br />
+    }
+
+    @if (User.Identity.IsAuthenticated)
+    {
+        if (User.Identity.GetUserName() == "guns_bombs@hotmail.co.uk")
+        {
+            <div class="pillbg">
+                <ul class="nav nav-pills">
+                    <li role="presentation"><a href="@Url.Action("Create", "Member")">Add</a></li>
+                    <li role="presentation"><a href="@Url.Action("Edit", "Member")">Edit</a></li>
+                    <li role="presentation" class="active"><a href="@Url.Action("Search", "Member")">Search</a></li>
+
+                </ul>
+            </div>
+        }
+    }
+
+    @*<p class="alert alert-info">Search for a Member.</p>*@
+
+    <table id="your_employees" class="table table-bordered table-hover table-condensed text-center">
+        <thead>
+            <tr>
+                <th class="text-center">First name</th>
+                <th class="text-center">Last name</th>
+                <th class="text-center">Role</th>
+                <th class="text-center">Phone Number</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.FirstName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.LastName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Role)</td>
+                    <td>@Html.DisplayFor(modelItem => item.PhoneNumber)</td>
+
+                </tr>
+            }
+
+        </tbody>
+    </table>
+</div>
+
+@section scripts {
+    <script>
+        $(document).ready(function () {
+            $('#your_employees').DataTable({
+                "bPaginate": true,
+                "bLengthChange": true,
+                "pageLength": 10,
+                "bInfo": false,
+                "pagingType": "simple",
+                "oLanguage": {
+                    "sSearch": "",
+                    "sLengthMenu": "",
+                    "oPaginate": {
+                        "sFirst": "",
+                        "sLast": "",
+                        "sNext": "",
+                        "sPrevious": ""
+                    }
+                }
+            });
+        });
+    </script>
+}
+   
