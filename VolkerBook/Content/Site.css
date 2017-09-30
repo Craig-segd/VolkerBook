@@ -47,7 +47,6 @@ textarea {
 
 .navbar-inverse {
     background-color: #444444;
-
 }
 
     .navbar-inverse .navbar-nav > li > a {
@@ -64,21 +63,19 @@ textarea {
     .nav-pills > li.active > a:focus {
         color: #ffffff;
         background-color: #0198F1;
-
     }
 
 .nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
     background-color: #0198f1;
-
 }
 
 .navbar-inverse .navbar-toggle {
     border-color: #fff;
 }
 
-.navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
-    background-color: #0198f1;
-}
+    .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
+        background-color: #0198f1;
+    }
 
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
     border-color: #ffffff;
@@ -135,6 +132,7 @@ a:hover, a:focus {
     .navbar-inverse .navbar-nav .open .dropdown-menu > li > a {
         color: #fff;
     }
+
     .indeximg {
         max-width: 100%;
         height: auto;
@@ -172,13 +170,17 @@ a:hover, a:focus {
     background-color: #444444;
 }
 
-.dropdown-menu > li > a {
-    color: #fff;   
-}
+    .dropdown-menu > li > a {
+        color: #fff;
+    }
 
 .jumbotron {
-    margin-top:10px;
+    margin-top: 10px;
     background-color: #555;
+}
+
+.jumbotron p {
+    text-align: center;
 }
 
 .jumboLogin {
@@ -197,9 +199,11 @@ a:hover, a:focus {
     margin-top: -30px;
     padding-top: 17px;
 }
+
     .pillbg ul.nav {
         display: inline-block;
     }
+
         .pillbg ul.nav li {
             display: inline;
             float: left;
@@ -245,5 +249,4 @@ dd {
 .logo {
     width: 59.1px;
     height: 41.2px;
-
 }
