@@ -22,12 +22,15 @@ namespace VolkerBook
             bundles.Add(new ScriptBundle("~/bootstrap").Include(
                         "~/Scripts/bootstrap.js",
                         "~/Scripts/dataTables.bootstrap.min.js",
+                        "~/Scripts/dataTables.responsive.min.js",
                       "~/Scripts/respond.js"));
 
             bundles.Add(new StyleBundle("~/css").Include(
                       "~/Content/bootstrap.css",
                       "~/Content/bootstrap.min.css",
+                      "~/Content/jquery.dataTables.min.css",
                       "~/Content/dataTables.bootstrap.min.css",
+                      "~/Content/responsive.dataTables.min.css",
                       "~/Content/Site.css"));
 
         }
