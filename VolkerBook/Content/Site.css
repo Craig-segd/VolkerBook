@@ -253,8 +253,12 @@ dd {
 
 div.dtr-modal div.dtr-modal-display {
     background-color: #404242;
+    padding-top: 30px;
 }
 
 .popup {
     color: #ffffff;
+    margin-top: 20px;
+    border-top: #333 solid 1px;
+    border-bottom: #333 solid 1px;
 }
