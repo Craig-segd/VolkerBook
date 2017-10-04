@@ -250,3 +250,11 @@ dd {
     width: 59.1px;
     height: 41.2px;
 }
+
+div.dtr-modal div.dtr-modal-display {
+    background-color: #404242;
+}
+
+.popup {
+    color: #ffffff;
+}

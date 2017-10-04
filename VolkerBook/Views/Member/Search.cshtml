@@ -34,6 +34,7 @@
             <tr>
                 <th class="text-center">First name</th>
                 <th class="text-center">Last name</th>
+                <th class="text-center">Role</th>
                 <th class="text-center">Contact number</th>
             </tr>
         </thead>
@@ -43,6 +44,7 @@
                 <tr>
                     <td>@Html.DisplayFor(modelItem => item.FirstName)</td>
                     <td>@Html.DisplayFor(modelItem => item.LastName)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Role)</td>
                     <td>@Html.DisplayFor(modelItem => item.PhoneNumber)</td>
                 </tr>
             }
@@ -55,37 +57,55 @@
     <script>
 
         var table = $(document).ready(function() {
-            var responsive = {
-                details: {
-                    display: $.fn.dataTable.Responsive.display.modal({
-                        header: function (row) {
-                            var data = row.data();
-                            return 'Details for ' + data[0] + ' ' + data[1];
-                        }
-                    }),
-                    renderer: function (api, rowIdx, columns) {
-                        var data = $.map(columns, function (col, i) {
-                            return '<tr>' +
-                                '<td>' + col.title + ':' + '</td> ' +
-                                '<td>' + col.data + '</td>' +
-                                '</tr>';
-                        }).join('');
-
-                        return $('<table/>').append(data);
-                    }
-                }
-            };
             $('#your_employees').DataTable({
                 "bPaginate": true,
                 "bLengthChange": true,
                 "pageLength": 10,
+                "oLanguage": {
+                    "sSearch": "",
+                    "sLengthMenu": "",
+                    "oPaginate": {
+                        "sFirst": "",
+                        "sLast": "",
+                        "sNext": "",
+                        "sPrevious": ""
+                    }
+                },
                 "bInfo": false,
                 "pagingType": "simple",
                 "columnDefs": [
                     { "width": "10%", "targets": 0 }
                 ],
-                get responsive() { return responsive; },
-                set responsive(value) { responsive = value; }
+                
+                get responsive() {
+                    return {
+                        details: {
+                            display: $.fn.dataTable.Responsive.display.modal({
+                                header: function(row) {
+                                    var data = row.data();
+                                    return 'Details for ' + data[0] + ' ' + data[1];
+                                }
+                            }),
+                            renderer: function(api, rowIdx, columns) {
+                                var data = $.map(columns,
+                                    function(col, i) {
+                                        return '<tr>' +
+                                            '<td class="popup">' +
+                                            col.title +
+                                            ':' +
+                                            '</td> ' +
+                                            '<td class="popup">' +
+                                            col.data +
+                                            '</td>' +
+                                            '</tr>';
+                                    }).join('');
+
+                                return $('<table/>').append(data);
+                            }
+                        }
+                    };
+                }
+                
             });
         });
     </script>
