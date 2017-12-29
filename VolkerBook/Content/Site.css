@@ -247,8 +247,8 @@ dd {
 }
 
 .logo {
-    width: 59.1px;
-    height: 41.2px;
+    width: 59.1px !important;
+    height: 41.2px !important;
 }
 
 div.dtr-modal div.dtr-modal-display {
